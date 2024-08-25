@@ -1,0 +1,1 @@
+Exclusive repository that contains code, simulations and practical examples of the main algorithms for Regression Analysis (v. gr. simple linear regression, multivariate linear regression, polynomial regression, etc).
